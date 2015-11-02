@@ -1,0 +1,69 @@
+div.innerDiv{
+	
+	background-color: white;
+	width:600px;
+	height: 250px;
+	border: 1px solid black;
+	font-weight: bold;
+	color: black;
+	border-radius: 5px;
+	margin-left: auto;
+	text-align: center;
+	margin-right: auto;
+	margin-bottom: 10px;/*
+	overflow: hidden;*/
+	
+}
+/*.innerDiv .btn{
+	float: right;
+	bottom: 40px;
+	right: 40px;
+}*/
+
+#trips{
+	background: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+/*.col-md-4{
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+}*/
+
+.commentContainer{
+	
+   }
+.commentButton{
+}
+
+.favoriteIcon{
+	width : 20px;
+	height: 20px;
+	float: right;
+	
+}
+/*.favoriteContainer{
+	overflow: hidden;
+}*/
+.tripContainer{
+	border: 2px solid silver;
+	margin-bottom: 15px;
+	border-radius: 15px;
+	
+}
+.commentArea{
+	width: 85%;
+	margin-left: 5px;
+}
+.commentButton{
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+.tripHeading{
+	font-weight: bold;
+	background-color: silver;
+}
+
